@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-Open [Demo link](https://filmi-pedia.web.app/) to view App
+Open [https://filmi-pedia.web.app/](https://filmi-pedia.web.app/) to view App
 
 
 ## Available Scripts
