@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.nav{
+  background-color:black;
+}
+
+
+
+.foo{
+  background-color: rgb(12, 8, 19);
+  margin-top: 30px;
+  padding: 80px;
+  color: white;
+}
